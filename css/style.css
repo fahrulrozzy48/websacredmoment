@@ -502,12 +502,12 @@ nav .icon-burger .line {
         background-blend-mode: darken;
         background-repeat: no-repeat;
         max-width: 100%;
-        min-height: 800px;
+        min-height: 600px;
         opacity: 0.9;
       }
     
     .kata_home  {
-        padding: 150px 150px 0 100px;
+        padding: 100px 150px 0 100px;
     }
     
     @font-face {
@@ -526,20 +526,20 @@ nav .icon-burger .line {
     }
     
     .kata_home h3 { 
-        font-size: 30px;
+        font-size: 20px;
         margin-bottom: 50px;
         color: black;
     }
     .kata_home h2 {
         
         font-family: nikahFOnt;
-        font-size: 70px;
+        font-size: 60px;
         color: black;
     }
     
     .kata_home p{
         
-        font-size: 25px;
+        font-size: 20px;
         margin-top: 50px;
         color: black;
     }
@@ -551,10 +551,10 @@ nav .icon-burger .line {
       .btns a{
         position: relative;
         margin: 0;
-        height: 60px;
+        height: 50px;
         width: 250px;
         display: block;
-        line-height: 60px;
+        line-height: 50px;
         border-radius: 30px;
         text-decoration: none;
         color: #fff;
